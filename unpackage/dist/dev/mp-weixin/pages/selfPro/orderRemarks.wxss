@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/* 行为相关颜色 */
+.ellipse1.data-v-24acbd0a {
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.ellipse2.data-v-24acbd0a {
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.order-remarks.data-v-24acbd0a {
+  width: 100%;
+  height: auto;
+}
+.order-remarks .contentBox.data-v-24acbd0a {
+    width: 100%;
+    height: auto;
+    padding: 30rpx;
+}
+.order-remarks .remarks-box.data-v-24acbd0a {
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    border: 1px solid #f5f5f5;
+    margin-bottom: 20rpx;
+}
+.order-remarks .remarks-box .remarks-textarea.data-v-24acbd0a {
+      background-color: #F6F9FA;
+      height: 300rpx;
+      width: 100%;
+      font-size: 28rpx;
+      color: #0A0800;
+      padding: 20rpx;
+}
+.order-remarks .remarks-history.data-v-24acbd0a {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+}
+.order-remarks .remarks-history .item-remarks.data-v-24acbd0a {
+      border-radius: 2rpx;
+      padding: 4rpx 10rpx;
+      background-color: #F5F6FA;
+      font-size: 24rpx;
+      color: #0A0800;
+      margin: 0 10rpx 10rpx 0;
+}
+.order-remarks .to-complete-btn.data-v-24acbd0a {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100rpx;
+    background-color: #FFDC00;
+    line-height: 100rpx;
+    text-align: center;
+    font-size: 32rpx;
+    color: #000;
+}
+

@@ -1,0 +1,26 @@
+
+/* 颜色变量 */
+$color-main: #FFDC00;
+$color-bg: #D8D8D8;
+$color-bg-2: #F5F6FA;
+
+$text-color-main-black: #000;
+$text-color-second-black: #0A0800;
+$text-color-icon: #7A8188;
+$text-color-grey: #909399;
+$text-color-red: #FF0014;
+$text-color-blue: #70BDFF;
+
+/* 行为相关颜色 */
+.ellipse1 {
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+ }
+.ellipse2 {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical; 
+}

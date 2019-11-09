@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/index",
+    "pages/home/home",
+    "pages/retail/retail",
+    "pages/selfPro/selfPro",
+    "pages/outdoorsPro/outdoorsPro",
+    "pages/outdoorsPro/outProDetail",
+    "pages/mine/mine",
+    "pages/selfPro/selectStore",
+    "pages/selfPro/sureOrder",
+    "pages/selfPro/orderRemarks",
+    "pages/selfPro/selfOrderDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "俱乐部小程序",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "home": "/pages/home/home",
+    "retail": "/pages/retail/retail",
+    "self-pro": "/pages/selfPro/selfPro",
+    "outdoors-pro": "/pages/outdoorsPro/outdoorsPro",
+    "mine": "/pages/mine/mine"
+  }
+}

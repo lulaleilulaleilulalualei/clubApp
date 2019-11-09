@@ -1,0 +1,1 @@
+<view class="mineBox data-v-0ad16668"><cu-custom vue-id="1" bgColor="white" isBack="{{false}}" class="data-v-0ad16668" bind:__l="__l" vue-slots="{{['content']}}"><view slot="content" class="data-v-0ad16668">我的</view></cu-custom></view>
